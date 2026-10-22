@@ -7,8 +7,8 @@
     "url": "https://github.com/varunmoka7"
   },
   "license": "MIT",
-  "homepage": "https://github.com/varunmoka7/skills-az",
-  "repository": "https://github.com/varunmoka7/skills-az",
+  "homepage": "https://github.com/moka-apps/skills-az",
+  "repository": "https://github.com/moka-apps/skills-az",
   "keywords": ["claude-code", "claude-code-mod", "claude-code-plugin", "function-hooks", "slash-command", "skills"],
   "types": "./types/index.d.ts"
 }

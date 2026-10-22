@@ -1,4 +1,13 @@
-# skills-az
+<p align="center">
+  <img src="assets/banner.svg" alt="skills-az: Your slash commands and skills, A to Z, as you type /." width="100%">
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/moka-apps/skills-az?style=flat-square&color=111111" alt="License"></a>
+  <a href="https://github.com/moka-apps"><img src="https://img.shields.io/badge/moka--apps-Claude_Code_mod-bc8cff?style=flat-square" alt="moka-apps, Claude Code mod"></a>
+</p>
+
+---
 
 Shows a list of your slash commands and skills in A to Z order as soon as you type `/` in the prompt, and narrows it as you keep typing.
 
@@ -9,7 +18,7 @@ You have installed a lot of plugins and cannot remember what a command is called
 ## Install
 
 ```
-claude plugin marketplace add varunmoka7/skills-az
+claude plugin marketplace add moka-apps/skills-az
 claude plugin install skills-az@skills-az
 ```
 
